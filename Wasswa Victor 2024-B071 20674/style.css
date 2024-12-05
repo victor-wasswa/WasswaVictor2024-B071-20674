@@ -1,0 +1,26 @@
+body {
+    font-family: Arial, sans-serif;
+  }
+  
+  h1 {
+    color: #333;
+  }
+  
+  nav {
+    background-color: #739dc7;
+  }
+  
+  nav .nav-link {
+    color: #007bff;
+  }
+  
+  nav .nav-link:hover {
+    color:blue
+
+    img {
+        border: 1px solid #ddd;
+        border-radius: 4px;
+        padding: 5px;
+        width: 150px;
+      }
+  
